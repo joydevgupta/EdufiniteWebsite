@@ -2,7 +2,7 @@
   "name": "my-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joydevgupta.github.io/my-frontend",
+  "homepage": "https://joydevgupta.github.io/EdufiniteWebsite",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
